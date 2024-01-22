@@ -13,5 +13,4 @@ def get_average(values):
 
 print("Average", get_average([5, 6, 7, 8]))
 
-
-
+# test changes
